@@ -22,7 +22,7 @@ services:
       - key: JWT_ACCESS_TOKEN_MINUTES
         value: "30"
       - key: CORS_ORIGINS
-        value: https://learn-hub-lime-iota.vercel.app
+        value: https://learn-hub-sks6.vercel.app,https://learn-hub-lime-iota.vercel.app
       - key: TIDB_HOST
         sync: false
       - key: TIDB_PORT

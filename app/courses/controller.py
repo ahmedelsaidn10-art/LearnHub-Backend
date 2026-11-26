@@ -64,9 +64,12 @@ def upload_course_image():
 
 
 def serve_course_image(filename):
-    """Serve a previously uploaded course image from the instance folder."""
+    """Serve a runtime upload or a course image bundled with the app."""
     upload_folder = Path(current_app.instance_path) / "uploads" / "courses"
-    return send_from_directory(upload_folder, filename)
+    bundled_folder = Path(current_app.root_path) / "static" / "uploads" / "courses"
+    if (upload_folder / filename).is_file():
+        return send_from_directory(upload_folder, filename)
+    return send_from_directory(bundled_folder, filename)
 
 
 @jwt_required()

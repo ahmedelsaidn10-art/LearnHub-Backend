@@ -1,0 +1,1362 @@
+[
+  {
+    "title": "HTML, CSS & JavaScript: Build Your First Websites",
+    "category": "Web Development",
+    "level": "Beginner",
+    "price": 0,
+    "duration": "18 hours",
+    "label": "Bestseller",
+    "published": 1,
+    "is_published": true,
+    "instructor": "Aisha Hassan",
+    "instructorImage": "/uploads/courses/instructor-web.jpg",
+    "image": "/uploads/courses/web-html-css.jpg",
+    "details": {
+      "description": "Create responsive pages with semantic HTML, modern CSS, and practical JavaScript.",
+      "instructorTitle": "Full-Stack Developer & Educator",
+      "language": "English",
+      "subtitles": [
+        "Arabic",
+        "Spanish"
+      ],
+      "projectCount": 4,
+      "repositoryCount": 12,
+      "outcomes": [
+        "Build responsive, accessible web interfaces.",
+        "Structure maintainable frontend and backend code.",
+        "Connect applications to APIs and databases.",
+        "Deploy a working web project."
+      ],
+      "requirements": [
+        "A computer with internet access.",
+        "No professional development experience is required."
+      ],
+      "curriculum": [
+        {
+          "title": "HTML Foundations",
+          "lessons": [
+            "Document structure",
+            "Semantic elements",
+            "Forms and accessibility"
+          ]
+        },
+        {
+          "title": "Modern CSS Layout",
+          "lessons": [
+            "Selectors and cascade",
+            "Flexbox layouts",
+            "Grid and responsive design"
+          ]
+        },
+        {
+          "title": "JavaScript Essentials",
+          "lessons": [
+            "Variables and functions",
+            "DOM events",
+            "Arrays and objects"
+          ]
+        },
+        {
+          "title": "Portfolio Project",
+          "lessons": [
+            "Plan a website",
+            "Build page interactions",
+            "Test screen sizes"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "React & Next.js: Modern Frontend Development",
+    "category": "Web Development",
+    "level": "Intermediate",
+    "price": 39.99,
+    "duration": "24 hours",
+    "label": "Popular",
+    "published": 2,
+    "is_published": true,
+    "instructor": "Aisha Hassan",
+    "instructorImage": "/uploads/courses/instructor-web.jpg",
+    "image": "/uploads/courses/web-react-nextjs.jpg",
+    "details": {
+      "description": "Build frontend applications with reusable React components, state, routing, and Next.js rendering patterns.",
+      "instructorTitle": "Full-Stack Developer & Educator",
+      "language": "English",
+      "subtitles": [
+        "Arabic",
+        "Spanish"
+      ],
+      "projectCount": 5,
+      "repositoryCount": 16,
+      "outcomes": [
+        "Build responsive, accessible web interfaces.",
+        "Structure maintainable frontend and backend code.",
+        "Connect applications to APIs and databases.",
+        "Deploy a working web project."
+      ],
+      "requirements": [
+        "A computer with internet access.",
+        "No professional development experience is required."
+      ],
+      "curriculum": [
+        {
+          "title": "React Components",
+          "lessons": [
+            "Props and composition",
+            "State and events",
+            "Reusable lists and forms"
+          ]
+        },
+        {
+          "title": "Application Data",
+          "lessons": [
+            "Effects and requests",
+            "Loading and error states",
+            "Shared state"
+          ]
+        },
+        {
+          "title": "Next.js Routing",
+          "lessons": [
+            "File-based routes",
+            "Layouts and navigation",
+            "Server and client rendering"
+          ]
+        },
+        {
+          "title": "Frontend Capstone",
+          "lessons": [
+            "Plan product screens",
+            "Build reusable pages",
+            "Polish accessibility"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Node.js REST APIs & Database Fundamentals",
+    "category": "Web Development",
+    "level": "Intermediate",
+    "price": 49.99,
+    "duration": "26 hours",
+    "label": null,
+    "published": 3,
+    "is_published": true,
+    "instructor": "Aisha Hassan",
+    "instructorImage": "/uploads/courses/instructor-web.jpg",
+    "image": "/uploads/courses/web-node-api.jpg",
+    "details": {
+      "description": "Design REST APIs, validate requests, handle errors, and connect Node.js services to relational data.",
+      "instructorTitle": "Full-Stack Developer & Educator",
+      "language": "English",
+      "subtitles": [
+        "Arabic",
+        "Spanish"
+      ],
+      "projectCount": 4,
+      "repositoryCount": 18,
+      "outcomes": [
+        "Build responsive, accessible web interfaces.",
+        "Structure maintainable frontend and backend code.",
+        "Connect applications to APIs and databases.",
+        "Deploy a working web project."
+      ],
+      "requirements": [
+        "A computer with internet access.",
+        "No professional development experience is required."
+      ],
+      "curriculum": [
+        {
+          "title": "Node Services",
+          "lessons": [
+            "Modules and packages",
+            "HTTP service basics",
+            "Routes and controllers"
+          ]
+        },
+        {
+          "title": "REST API Design",
+          "lessons": [
+            "Resources and methods",
+            "Validation and responses",
+            "Pagination and errors"
+          ]
+        },
+        {
+          "title": "Relational Data",
+          "lessons": [
+            "Tables and keys",
+            "Queries and joins",
+            "Transactions and connections"
+          ]
+        },
+        {
+          "title": "Secure API Project",
+          "lessons": [
+            "Authentication",
+            "Test API behavior",
+            "Document endpoints"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Full-Stack React & Flask Project Bootcamp",
+    "category": "Web Development",
+    "level": "Intermediate",
+    "price": 59.99,
+    "duration": "32 hours",
+    "label": "Bestseller",
+    "published": 4,
+    "is_published": true,
+    "instructor": "Aisha Hassan",
+    "instructorImage": "/uploads/courses/instructor-web.jpg",
+    "image": "/uploads/courses/web-fullstack-capstone.jpg",
+    "details": {
+      "description": "Build a complete product with a React frontend, Flask API, relational data, authentication, and deployment preparation.",
+      "instructorTitle": "Full-Stack Developer & Educator",
+      "language": "English",
+      "subtitles": [
+        "Arabic",
+        "Spanish"
+      ],
+      "projectCount": 6,
+      "repositoryCount": 22,
+      "outcomes": [
+        "Build responsive, accessible web interfaces.",
+        "Structure maintainable frontend and backend code.",
+        "Connect applications to APIs and databases.",
+        "Deploy a working web project."
+      ],
+      "requirements": [
+        "A computer with internet access.",
+        "No professional development experience is required."
+      ],
+      "curriculum": [
+        {
+          "title": "Product Architecture",
+          "lessons": [
+            "Define requirements",
+            "Plan frontend and API",
+            "Organize the project"
+          ]
+        },
+        {
+          "title": "Frontend and API",
+          "lessons": [
+            "Build React screens",
+            "Connect Flask endpoints",
+            "Handle auth and errors"
+          ]
+        },
+        {
+          "title": "Database and Security",
+          "lessons": [
+            "Model relationships",
+            "Protect actions",
+            "Validate input"
+          ]
+        },
+        {
+          "title": "Capstone Release",
+          "lessons": [
+            "Complete a feature",
+            "Review responsive behavior",
+            "Prepare deployment"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Python Programming Essentials",
+    "category": "Programming",
+    "level": "Beginner",
+    "price": 0,
+    "duration": "16 hours",
+    "label": "Bestseller",
+    "published": 5,
+    "is_published": true,
+    "instructor": "Omar Fathy",
+    "instructorImage": "/uploads/courses/instructor-programming.jpg",
+    "image": "/uploads/courses/programming-python.jpg",
+    "details": {
+      "description": "Learn Python through useful programs covering variables, conditions, loops, functions, and data collections.",
+      "instructorTitle": "Software Engineer & Programming Instructor",
+      "language": "English",
+      "subtitles": [
+        "Arabic",
+        "Spanish"
+      ],
+      "projectCount": 4,
+      "repositoryCount": 10,
+      "outcomes": [
+        "Write readable programs using core language features.",
+        "Break problems into smaller steps and functions.",
+        "Debug errors and test expected behavior.",
+        "Build a practical programming project."
+      ],
+      "requirements": [
+        "A computer with internet access.",
+        "No prior programming experience is required unless stated."
+      ],
+      "curriculum": [
+        {
+          "title": "Getting Started",
+          "lessons": [
+            "Run Python scripts",
+            "Values and variables",
+            "Strings and input"
+          ]
+        },
+        {
+          "title": "Program Logic",
+          "lessons": [
+            "Conditions",
+            "Loops",
+            "Combine logic"
+          ]
+        },
+        {
+          "title": "Functions and Collections",
+          "lessons": [
+            "Write functions",
+            "Lists and dictionaries",
+            "Read and write files"
+          ]
+        },
+        {
+          "title": "Practical Python",
+          "lessons": [
+            "Break down a task",
+            "Handle errors",
+            "Build a command-line tool"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Object-Oriented Java & Clean Code",
+    "category": "Programming",
+    "level": "Intermediate",
+    "price": 34.99,
+    "duration": "22 hours",
+    "label": null,
+    "published": 6,
+    "is_published": true,
+    "instructor": "Omar Fathy",
+    "instructorImage": "/uploads/courses/instructor-programming.jpg",
+    "image": "/uploads/courses/programming-java.jpg",
+    "details": {
+      "description": "Understand Java classes, objects, interfaces, and exceptions while keeping programs readable and testable.",
+      "instructorTitle": "Software Engineer & Programming Instructor",
+      "language": "English",
+      "subtitles": [
+        "Arabic",
+        "Spanish"
+      ],
+      "projectCount": 4,
+      "repositoryCount": 14,
+      "outcomes": [
+        "Write readable programs using core language features.",
+        "Break problems into smaller steps and functions.",
+        "Debug errors and test expected behavior.",
+        "Build a practical programming project."
+      ],
+      "requirements": [
+        "A computer with internet access.",
+        "No prior programming experience is required unless stated."
+      ],
+      "curriculum": [
+        {
+          "title": "Java Foundations",
+          "lessons": [
+            "Types and methods",
+            "Conditions and loops",
+            "Packages"
+          ]
+        },
+        {
+          "title": "Objects and Classes",
+          "lessons": [
+            "Fields and constructors",
+            "Encapsulation",
+            "Inheritance and composition"
+          ]
+        },
+        {
+          "title": "Interfaces and Reliability",
+          "lessons": [
+            "Interfaces",
+            "Exceptions",
+            "Collections and generics"
+          ]
+        },
+        {
+          "title": "Java Application",
+          "lessons": [
+            "Plan an object model",
+            "Build a console application",
+            "Refactor and test"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "C++ Algorithms & Problem Solving",
+    "category": "Programming",
+    "level": "Intermediate",
+    "price": 39.99,
+    "duration": "25 hours",
+    "label": "Popular",
+    "published": 7,
+    "is_published": true,
+    "instructor": "Omar Fathy",
+    "instructorImage": "/uploads/courses/instructor-programming.jpg",
+    "image": "/uploads/courses/programming-cpp.jpg",
+    "details": {
+      "description": "Practice C++ problem solving with core data structures, algorithm patterns, and complexity reasoning.",
+      "instructorTitle": "Software Engineer & Programming Instructor",
+      "language": "English",
+      "subtitles": [
+        "Arabic",
+        "Spanish"
+      ],
+      "projectCount": 5,
+      "repositoryCount": 15,
+      "outcomes": [
+        "Write readable programs using core language features.",
+        "Break problems into smaller steps and functions.",
+        "Debug errors and test expected behavior.",
+        "Build a practical programming project."
+      ],
+      "requirements": [
+        "A computer with internet access.",
+        "No prior programming experience is required unless stated."
+      ],
+      "curriculum": [
+        {
+          "title": "C++ Core",
+          "lessons": [
+            "Types and control flow",
+            "Functions",
+            "References and pointers"
+          ]
+        },
+        {
+          "title": "Data Structures",
+          "lessons": [
+            "Arrays and vectors",
+            "Stacks and queues",
+            "Maps and sets"
+          ]
+        },
+        {
+          "title": "Algorithm Patterns",
+          "lessons": [
+            "Searching and sorting",
+            "Recursion",
+            "Complexity tradeoffs"
+          ]
+        },
+        {
+          "title": "Problem Solving",
+          "lessons": [
+            "Create test cases",
+            "Choose an approach",
+            "Build an algorithm set"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "JavaScript Patterns & Practical Programming",
+    "category": "Programming",
+    "level": "Intermediate",
+    "price": 29.99,
+    "duration": "20 hours",
+    "label": null,
+    "published": 8,
+    "is_published": true,
+    "instructor": "Omar Fathy",
+    "instructorImage": "/uploads/courses/instructor-programming.jpg",
+    "image": "/uploads/courses/programming-javascript.jpg",
+    "details": {
+      "description": "Strengthen JavaScript with functions, objects, asynchronous programming, modules, and application patterns.",
+      "instructorTitle": "Software Engineer & Programming Instructor",
+      "language": "English",
+      "subtitles": [
+        "Arabic",
+        "Spanish"
+      ],
+      "projectCount": 4,
+      "repositoryCount": 13,
+      "outcomes": [
+        "Write readable programs using core language features.",
+        "Break problems into smaller steps and functions.",
+        "Debug errors and test expected behavior.",
+        "Build a practical programming project."
+      ],
+      "requirements": [
+        "A computer with internet access.",
+        "No prior programming experience is required unless stated."
+      ],
+      "curriculum": [
+        {
+          "title": "JavaScript Refresher",
+          "lessons": [
+            "Scope and types",
+            "Functions and closures",
+            "Objects and arrays"
+          ]
+        },
+        {
+          "title": "Modern Features",
+          "lessons": [
+            "Destructuring and modules",
+            "Classes and composition",
+            "Defensive programming"
+          ]
+        },
+        {
+          "title": "Async JavaScript",
+          "lessons": [
+            "Promises",
+            "Async functions",
+            "API failures and retries"
+          ]
+        },
+        {
+          "title": "Build a Useful Tool",
+          "lessons": [
+            "Structure the app",
+            "Add interaction",
+            "Test and refactor"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "UX Research & Product Design Foundations",
+    "category": "UI/UX",
+    "level": "Beginner",
+    "price": 0,
+    "duration": "14 hours",
+    "label": "New",
+    "published": 9,
+    "is_published": true,
+    "instructor": "Lina Mostafa",
+    "instructorImage": "/uploads/courses/instructor-uiux.jpg",
+    "image": "/uploads/courses/uiux-research.jpg",
+    "details": {
+      "description": "Understand user needs, frame product problems, map journeys, and turn research into design opportunities.",
+      "instructorTitle": "Product Designer & UX Researcher",
+      "language": "English",
+      "subtitles": [
+        "Arabic",
+        "Spanish"
+      ],
+      "projectCount": 3,
+      "repositoryCount": 8,
+      "outcomes": [
+        "Plan user-centered digital experiences.",
+        "Create interface layouts and prototypes.",
+        "Use feedback to improve usability.",
+        "Present design decisions clearly."
+      ],
+      "requirements": [
+        "A computer with internet access.",
+        "A free design-tool account is recommended."
+      ],
+      "curriculum": [
+        {
+          "title": "User Needs",
+          "lessons": [
+            "Frame a problem",
+            "Identify assumptions",
+            "Set research goals"
+          ]
+        },
+        {
+          "title": "Research Methods",
+          "lessons": [
+            "Plan interviews",
+            "Ask neutral questions",
+            "Capture observations"
+          ]
+        },
+        {
+          "title": "Synthesis",
+          "lessons": [
+            "Group findings",
+            "Write opportunity statements",
+            "Map a journey"
+          ]
+        },
+        {
+          "title": "Design Direction",
+          "lessons": [
+            "Sketch solutions",
+            "Prioritize with evidence",
+            "Present findings"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Figma UI Design: From Wireframe to Interface",
+    "category": "UI/UX",
+    "level": "Beginner",
+    "price": 24.99,
+    "duration": "17 hours",
+    "label": "Popular",
+    "published": 10,
+    "is_published": true,
+    "instructor": "Lina Mostafa",
+    "instructorImage": "/uploads/courses/instructor-uiux.jpg",
+    "image": "/uploads/courses/uiux-figma.jpg",
+    "details": {
+      "description": "Move from layout sketches to polished Figma screens, reusable components, and responsive variations.",
+      "instructorTitle": "Product Designer & UX Researcher",
+      "language": "English",
+      "subtitles": [
+        "Arabic",
+        "Spanish"
+      ],
+      "projectCount": 4,
+      "repositoryCount": 9,
+      "outcomes": [
+        "Plan user-centered digital experiences.",
+        "Create interface layouts and prototypes.",
+        "Use feedback to improve usability.",
+        "Present design decisions clearly."
+      ],
+      "requirements": [
+        "A computer with internet access.",
+        "A free design-tool account is recommended."
+      ],
+      "curriculum": [
+        {
+          "title": "Figma Workspace",
+          "lessons": [
+            "Frames and layers",
+            "Styles",
+            "Organize project files"
+          ]
+        },
+        {
+          "title": "Wireframes",
+          "lessons": [
+            "Translate requirements",
+            "Build hierarchy",
+            "Plan navigation"
+          ]
+        },
+        {
+          "title": "Visual Design",
+          "lessons": [
+            "Typography and color",
+            "Components and variants",
+            "Responsive screens"
+          ]
+        },
+        {
+          "title": "Interface Project",
+          "lessons": [
+            "Design a flow",
+            "Apply feedback",
+            "Prepare handoff"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Design Systems: Components, Tokens & Guidelines",
+    "category": "UI/UX",
+    "level": "Advanced",
+    "price": 44.99,
+    "duration": "21 hours",
+    "label": null,
+    "published": 11,
+    "is_published": true,
+    "instructor": "Lina Mostafa",
+    "instructorImage": "/uploads/courses/instructor-uiux.jpg",
+    "image": "/uploads/courses/uiux-design-systems.jpg",
+    "details": {
+      "description": "Create a maintainable design system with reusable components, visual tokens, guidelines, and contribution workflows.",
+      "instructorTitle": "Product Designer & UX Researcher",
+      "language": "English",
+      "subtitles": [
+        "Arabic",
+        "Spanish"
+      ],
+      "projectCount": 4,
+      "repositoryCount": 12,
+      "outcomes": [
+        "Plan user-centered digital experiences.",
+        "Create interface layouts and prototypes.",
+        "Use feedback to improve usability.",
+        "Present design decisions clearly."
+      ],
+      "requirements": [
+        "A computer with internet access.",
+        "A free design-tool account is recommended."
+      ],
+      "curriculum": [
+        {
+          "title": "System Foundations",
+          "lessons": [
+            "Audit an interface",
+            "Define principles",
+            "Set design tokens"
+          ]
+        },
+        {
+          "title": "Component Design",
+          "lessons": [
+            "Model states",
+            "Accessible controls",
+            "Responsive behavior"
+          ]
+        },
+        {
+          "title": "Patterns and Governance",
+          "lessons": [
+            "Combine components",
+            "Review contributions",
+            "Version changes"
+          ]
+        },
+        {
+          "title": "System Release",
+          "lessons": [
+            "Build a library",
+            "Write guidelines",
+            "Test product screens"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "UX Prototyping & Usability Testing",
+    "category": "UI/UX",
+    "level": "Intermediate",
+    "price": 34.99,
+    "duration": "18 hours",
+    "label": null,
+    "published": 12,
+    "is_published": true,
+    "instructor": "Lina Mostafa",
+    "instructorImage": "/uploads/courses/instructor-uiux.jpg",
+    "image": "/uploads/courses/uiux-prototyping.jpg",
+    "details": {
+      "description": "Prototype realistic user flows, run usability sessions, and improve interaction design with evidence.",
+      "instructorTitle": "Product Designer & UX Researcher",
+      "language": "English",
+      "subtitles": [
+        "Arabic",
+        "Spanish"
+      ],
+      "projectCount": 4,
+      "repositoryCount": 10,
+      "outcomes": [
+        "Plan user-centered digital experiences.",
+        "Create interface layouts and prototypes.",
+        "Use feedback to improve usability.",
+        "Present design decisions clearly."
+      ],
+      "requirements": [
+        "A computer with internet access.",
+        "A free design-tool account is recommended."
+      ],
+      "curriculum": [
+        {
+          "title": "Interaction Planning",
+          "lessons": [
+            "Define tasks",
+            "Map screens",
+            "Choose fidelity"
+          ]
+        },
+        {
+          "title": "Prototype Craft",
+          "lessons": [
+            "Connect screens",
+            "Design states",
+            "Create test scenarios"
+          ]
+        },
+        {
+          "title": "Usability Sessions",
+          "lessons": [
+            "Recruit participants",
+            "Moderate sessions",
+            "Record friction"
+          ]
+        },
+        {
+          "title": "Iteration",
+          "lessons": [
+            "Prioritize findings",
+            "Improve the prototype",
+            "Present design changes"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Digital Marketing Strategy & Campaign Planning",
+    "category": "Marketing",
+    "level": "Beginner",
+    "price": 0,
+    "duration": "15 hours",
+    "label": "New",
+    "published": 13,
+    "is_published": true,
+    "instructor": "Karim Nabil",
+    "instructorImage": "/uploads/courses/instructor-marketing.jpg",
+    "image": "/uploads/courses/marketing-fundamentals.jpg",
+    "details": {
+      "description": "Build a marketing plan with a defined audience, positioning, channel mix, goals, and measurable indicators.",
+      "instructorTitle": "Digital Marketing Strategist",
+      "language": "English",
+      "subtitles": [
+        "Arabic",
+        "Spanish"
+      ],
+      "projectCount": 3,
+      "repositoryCount": 7,
+      "outcomes": [
+        "Plan campaigns around an audience and goal.",
+        "Choose useful channels and measurable metrics.",
+        "Create and improve marketing content.",
+        "Evaluate campaign results."
+      ],
+      "requirements": [
+        "A computer with internet access.",
+        "No previous marketing experience is required."
+      ],
+      "curriculum": [
+        {
+          "title": "Audience and Positioning",
+          "lessons": [
+            "Define audience",
+            "Map needs",
+            "Create a value proposition"
+          ]
+        },
+        {
+          "title": "Channel Strategy",
+          "lessons": [
+            "Compare channels",
+            "Match journey stages",
+            "Plan content mix"
+          ]
+        },
+        {
+          "title": "Campaign Planning",
+          "lessons": [
+            "Set goals",
+            "Write a campaign brief",
+            "Plan budget and timing"
+          ]
+        },
+        {
+          "title": "Measurement",
+          "lessons": [
+            "Choose metrics",
+            "Review attribution limits",
+            "Recommend experiments"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "SEO & Content Strategy for Growing Websites",
+    "category": "Marketing",
+    "level": "Intermediate",
+    "price": 29.99,
+    "duration": "19 hours",
+    "label": "Bestseller",
+    "published": 14,
+    "is_published": true,
+    "instructor": "Karim Nabil",
+    "instructorImage": "/uploads/courses/instructor-marketing.jpg",
+    "image": "/uploads/courses/marketing-seo.jpg",
+    "details": {
+      "description": "Plan search-focused content, improve on-page fundamentals, and use performance data to guide organic growth.",
+      "instructorTitle": "Digital Marketing Strategist",
+      "language": "English",
+      "subtitles": [
+        "Arabic",
+        "Spanish"
+      ],
+      "projectCount": 4,
+      "repositoryCount": 9,
+      "outcomes": [
+        "Plan campaigns around an audience and goal.",
+        "Choose useful channels and measurable metrics.",
+        "Create and improve marketing content.",
+        "Evaluate campaign results."
+      ],
+      "requirements": [
+        "A computer with internet access.",
+        "No previous marketing experience is required."
+      ],
+      "curriculum": [
+        {
+          "title": "Search Fundamentals",
+          "lessons": [
+            "How search works",
+            "Search intent",
+            "Set up measurement"
+          ]
+        },
+        {
+          "title": "Topic Research",
+          "lessons": [
+            "Find audience questions",
+            "Evaluate intent",
+            "Build a content map"
+          ]
+        },
+        {
+          "title": "On-Page SEO",
+          "lessons": [
+            "Write titles",
+            "Structure internal links",
+            "Improve technical basics"
+          ]
+        },
+        {
+          "title": "Content Project",
+          "lessons": [
+            "Create a brief",
+            "Optimize a page",
+            "Review next steps"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Social Media Marketing & Community Growth",
+    "category": "Marketing",
+    "level": "Beginner",
+    "price": 24.99,
+    "duration": "16 hours",
+    "label": null,
+    "published": 15,
+    "is_published": true,
+    "instructor": "Karim Nabil",
+    "instructorImage": "/uploads/courses/instructor-marketing.jpg",
+    "image": "/uploads/courses/marketing-social-media.jpg",
+    "details": {
+      "description": "Build a consistent social media plan with channel choices, engaging content, community practices, and tracking.",
+      "instructorTitle": "Digital Marketing Strategist",
+      "language": "English",
+      "subtitles": [
+        "Arabic",
+        "Spanish"
+      ],
+      "projectCount": 4,
+      "repositoryCount": 8,
+      "outcomes": [
+        "Plan campaigns around an audience and goal.",
+        "Choose useful channels and measurable metrics.",
+        "Create and improve marketing content.",
+        "Evaluate campaign results."
+      ],
+      "requirements": [
+        "A computer with internet access.",
+        "No previous marketing experience is required."
+      ],
+      "curriculum": [
+        {
+          "title": "Channel and Community",
+          "lessons": [
+            "Set a goal",
+            "Choose platforms",
+            "Define a community voice"
+          ]
+        },
+        {
+          "title": "Content Planning",
+          "lessons": [
+            "Build content pillars",
+            "Adapt formats",
+            "Create a calendar"
+          ]
+        },
+        {
+          "title": "Publishing",
+          "lessons": [
+            "Write post copy",
+            "Respond to feedback",
+            "Handle moderation"
+          ]
+        },
+        {
+          "title": "Measure and Improve",
+          "lessons": [
+            "Track engagement",
+            "Compare formats",
+            "Plan experiments"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Email Marketing, Automation & Lifecycle Campaigns",
+    "category": "Marketing",
+    "level": "Intermediate",
+    "price": 34.99,
+    "duration": "20 hours",
+    "label": "Popular",
+    "published": 16,
+    "is_published": true,
+    "instructor": "Karim Nabil",
+    "instructorImage": "/uploads/courses/instructor-marketing.jpg",
+    "image": "/uploads/courses/marketing-email.jpg",
+    "details": {
+      "description": "Design useful email campaigns, segment audiences responsibly, automate lifecycle journeys, and measure results.",
+      "instructorTitle": "Digital Marketing Strategist",
+      "language": "English",
+      "subtitles": [
+        "Arabic",
+        "Spanish"
+      ],
+      "projectCount": 4,
+      "repositoryCount": 11,
+      "outcomes": [
+        "Plan campaigns around an audience and goal.",
+        "Choose useful channels and measurable metrics.",
+        "Create and improve marketing content.",
+        "Evaluate campaign results."
+      ],
+      "requirements": [
+        "A computer with internet access.",
+        "No previous marketing experience is required."
+      ],
+      "curriculum": [
+        {
+          "title": "Email Foundations",
+          "lessons": [
+            "Permission and hygiene",
+            "Set objectives",
+            "Deliverability basics"
+          ]
+        },
+        {
+          "title": "Audience and Content",
+          "lessons": [
+            "Create segments",
+            "Write email copy",
+            "Design readable messages"
+          ]
+        },
+        {
+          "title": "Lifecycle Automation",
+          "lessons": [
+            "Map journeys",
+            "Set triggers",
+            "Add fallback paths"
+          ]
+        },
+        {
+          "title": "Campaign Analytics",
+          "lessons": [
+            "Track conversions",
+            "Interpret metrics",
+            "Run improvement tests"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Data Analysis with Python, Pandas & Notebooks",
+    "category": "Data Science",
+    "level": "Beginner",
+    "price": 0,
+    "duration": "19 hours",
+    "label": "Bestseller",
+    "published": 17,
+    "is_published": true,
+    "instructor": "Noor Samir",
+    "instructorImage": "/uploads/courses/instructor-data-science.jpg",
+    "image": "/uploads/courses/data-python-analysis.jpg",
+    "details": {
+      "description": "Clean and explore tabular data with Python and Pandas, then communicate findings in reproducible notebooks.",
+      "instructorTitle": "Data Analyst & ML Practitioner",
+      "language": "English",
+      "subtitles": [
+        "Arabic",
+        "Spanish"
+      ],
+      "projectCount": 4,
+      "repositoryCount": 15,
+      "outcomes": [
+        "Prepare and explore structured datasets.",
+        "Use suitable tools to analyze data.",
+        "Explain findings with clear visualizations.",
+        "Complete a practical data project."
+      ],
+      "requirements": [
+        "A computer with internet access.",
+        "Basic spreadsheet familiarity is helpful."
+      ],
+      "curriculum": [
+        {
+          "title": "Python Data Toolkit",
+          "lessons": [
+            "Notebook workflow",
+            "Load datasets",
+            "Inspect data types"
+          ]
+        },
+        {
+          "title": "Cleaning",
+          "lessons": [
+            "Fix inconsistent values",
+            "Handle missing rows",
+            "Create features"
+          ]
+        },
+        {
+          "title": "Exploration",
+          "lessons": [
+            "Summarize distributions",
+            "Group records",
+            "Answer questions with Pandas"
+          ]
+        },
+        {
+          "title": "Analysis Report",
+          "lessons": [
+            "Organize notebook",
+            "Visualize patterns",
+            "Explain limits"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "SQL for Analytics: Queries, Joins & Reporting",
+    "category": "Data Science",
+    "level": "Beginner",
+    "price": 24.99,
+    "duration": "17 hours",
+    "label": null,
+    "published": 18,
+    "is_published": true,
+    "instructor": "Noor Samir",
+    "instructorImage": "/uploads/courses/instructor-data-science.jpg",
+    "image": "/uploads/courses/data-sql-analytics.jpg",
+    "details": {
+      "description": "Use SQL to explore relational data, combine tables, summarize metrics, and answer business questions.",
+      "instructorTitle": "Data Analyst & ML Practitioner",
+      "language": "English",
+      "subtitles": [
+        "Arabic",
+        "Spanish"
+      ],
+      "projectCount": 4,
+      "repositoryCount": 12,
+      "outcomes": [
+        "Prepare and explore structured datasets.",
+        "Use suitable tools to analyze data.",
+        "Explain findings with clear visualizations.",
+        "Complete a practical data project."
+      ],
+      "requirements": [
+        "A computer with internet access.",
+        "Basic spreadsheet familiarity is helpful."
+      ],
+      "curriculum": [
+        {
+          "title": "Query Basics",
+          "lessons": [
+            "Select and filter",
+            "Sort results",
+            "Use expressions"
+          ]
+        },
+        {
+          "title": "Summaries",
+          "lessons": [
+            "Aggregate functions",
+            "Group results",
+            "Conditional expressions"
+          ]
+        },
+        {
+          "title": "Relational Queries",
+          "lessons": [
+            "Join tables",
+            "Understand relationships",
+            "Use subqueries and CTEs"
+          ]
+        },
+        {
+          "title": "Analytics Project",
+          "lessons": [
+            "Translate questions",
+            "Build reports",
+            "Check and explain totals"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Machine Learning with Python: Practical Models",
+    "category": "Data Science",
+    "level": "Intermediate",
+    "price": 49.99,
+    "duration": "26 hours",
+    "label": "Popular",
+    "published": 19,
+    "is_published": true,
+    "instructor": "Noor Samir",
+    "instructorImage": "/uploads/courses/instructor-data-science.jpg",
+    "image": "/uploads/courses/data-machine-learning.jpg",
+    "details": {
+      "description": "Build a machine-learning workflow for data preparation, baseline models, evaluation, and responsible communication.",
+      "instructorTitle": "Data Analyst & ML Practitioner",
+      "language": "English",
+      "subtitles": [
+        "Arabic",
+        "Spanish"
+      ],
+      "projectCount": 5,
+      "repositoryCount": 19,
+      "outcomes": [
+        "Prepare and explore structured datasets.",
+        "Use suitable tools to analyze data.",
+        "Explain findings with clear visualizations.",
+        "Complete a practical data project."
+      ],
+      "requirements": [
+        "A computer with internet access.",
+        "Basic spreadsheet familiarity is helpful."
+      ],
+      "curriculum": [
+        {
+          "title": "ML Workflow",
+          "lessons": [
+            "Define a prediction task",
+            "Split data safely",
+            "Build a baseline"
+          ]
+        },
+        {
+          "title": "Feature Preparation",
+          "lessons": [
+            "Encode categories",
+            "Handle missing data",
+            "Create preprocessing"
+          ]
+        },
+        {
+          "title": "Models and Evaluation",
+          "lessons": [
+            "Train classifiers",
+            "Choose metrics",
+            "Compare models"
+          ]
+        },
+        {
+          "title": "Responsible Project",
+          "lessons": [
+            "Inspect errors",
+            "Communicate uncertainty",
+            "Package experiment"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Data Visualization & Storytelling with Python",
+    "category": "Data Science",
+    "level": "Intermediate",
+    "price": 34.99,
+    "duration": "18 hours",
+    "label": null,
+    "published": 20,
+    "is_published": true,
+    "instructor": "Noor Samir",
+    "instructorImage": "/uploads/courses/instructor-data-science.jpg",
+    "image": "/uploads/courses/data-visualization.jpg",
+    "details": {
+      "description": "Choose effective charts and create readable data stories that help an audience understand findings and make decisions.",
+      "instructorTitle": "Data Analyst & ML Practitioner",
+      "language": "English",
+      "subtitles": [
+        "Arabic",
+        "Spanish"
+      ],
+      "projectCount": 4,
+      "repositoryCount": 13,
+      "outcomes": [
+        "Prepare and explore structured datasets.",
+        "Use suitable tools to analyze data.",
+        "Explain findings with clear visualizations.",
+        "Complete a practical data project."
+      ],
+      "requirements": [
+        "A computer with internet access.",
+        "Basic spreadsheet familiarity is helpful."
+      ],
+      "curriculum": [
+        {
+          "title": "Visual Thinking",
+          "lessons": [
+            "Match chart to question",
+            "Avoid misleading scales",
+            "Plan a story"
+          ]
+        },
+        {
+          "title": "Charts with Python",
+          "lessons": [
+            "Compare categories",
+            "Show trends",
+            "Format labels"
+          ]
+        },
+        {
+          "title": "Dashboards",
+          "lessons": [
+            "Arrange useful views",
+            "Add context",
+            "Use accessible visual design"
+          ]
+        },
+        {
+          "title": "Storytelling Project",
+          "lessons": [
+            "Choose audience",
+            "Create a visual narrative",
+            "Present caveats"
+          ]
+        }
+      ]
+    }
+  }
+]

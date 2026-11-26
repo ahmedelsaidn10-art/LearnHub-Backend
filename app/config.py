@@ -1,4 +1,6 @@
-﻿import os
+import os
+
+import certifi
 
 from dotenv import load_dotenv
 from sqlalchemy.engine import URL
@@ -19,12 +21,24 @@ def _csv(name: str, default: str) -> list[str]:
 
 
 def _database_uri() -> str:
-    # A hosted provider may supply a complete URL. For local development,
-    # build one safely from separate values so special password characters work.
+    # A complete URL can still be supplied by a hosting provider.
     database_url = os.getenv("DATABASE_URL")
     if database_url:
         return database_url
 
+    # TiDB uses MySQL compatibility and requires TLS for its public endpoint.
+    tidb_host = os.getenv("TIDB_HOST")
+    if tidb_host:
+        return URL.create(
+            drivername="mysql+mysqlconnector",
+            username=os.getenv("TIDB_USER", ""),
+            password=os.getenv("TIDB_PASSWORD", ""),
+            host=tidb_host,
+            port=int(os.getenv("TIDB_PORT", "4000")),
+            database=os.getenv("TIDB_DATABASE", "learnhub_db"),
+        ).render_as_string(hide_password=False)
+
+    # Local MySQL development keeps using separate settings.
     return URL.create(
         drivername="mysql+mysqlconnector",
         username=os.getenv("MYSQL_USER", "root"),
@@ -44,6 +58,13 @@ class Config:
 
     SQLALCHEMY_DATABASE_URI = _database_uri()
     SQLALCHEMY_TRACK_MODIFICATIONS = False
+    SQLALCHEMY_ENGINE_OPTIONS = {
+        "connect_args": {
+            "ssl_verify_cert": True,
+            "ssl_verify_identity": True,
+            "ssl_ca": os.getenv("TIDB_SSL_CA") or certifi.where(),
+        }
+    } if os.getenv("TIDB_HOST") else {}
 
     OTP_EXPIRY_MINUTES = int(os.getenv("OTP_EXPIRY_MINUTES", "10"))
     SMTP_HOST = os.getenv("SMTP_HOST", "")
@@ -52,6 +73,9 @@ class Config:
     SMTP_PASSWORD = os.getenv("SMTP_PASSWORD", "")
     MAIL_FROM = os.getenv("MAIL_FROM", "")
     SMTP_USE_SSL = _as_bool("SMTP_USE_SSL", False)
+    EMAIL_PROVIDER = os.getenv("EMAIL_PROVIDER", "smtp").strip().lower()
+    BREVO_API_KEY = os.getenv("BREVO_API_KEY", "")
+    MAIL_FROM_NAME = os.getenv("MAIL_FROM_NAME", "LearnHub")
 
     JWT_TOKEN_LOCATION = ["cookies"]
     JWT_COOKIE_CSRF_PROTECT = True
@@ -74,4 +98,3 @@ class Config:
                 raise RuntimeError("Set JWT_SECRET_KEY in the production environment.")
             if not cls.JWT_COOKIE_SECURE:
                 raise RuntimeError("JWT_COOKIE_SECURE must be enabled in production.")
-
